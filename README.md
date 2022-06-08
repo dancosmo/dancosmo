@@ -4,7 +4,10 @@
 
 Mechatronic's Engineer and self taught web developer. I have great passion for technology and innovation. I am currently looking for the right opportunity to develop my skills as a programmer in a job. I am currently focusing on Javascript and front-end technologies.
 
-Skills: REACT / REDUX / JS / HTML / CSS
+Skills: 
+⚛  REACT 
+🌌 REDUX  
+💻 JS / HTML / CSS
 
 - 🔭 I’m currently working on https://watchat-cosmo.netlify.app/ 
 - 🌱 I’m currently learning Javascript, React, Redux. 
