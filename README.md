@@ -6,7 +6,10 @@ Mechatronic's Engineer and self taught web developer. I have great passion for t
 
 Skills: ⚛  REACT / 🌌 REDUX / 💻 JS / HTML / CSS
 
-- 🔭 I’m currently working on https://watchat-cosmo.netlify.app/ 
+- 🔭 My projects: 
+  1- https://watchat-cosmo.netlify.app/ 
+  2- https://rock-paper-scissors-cosmo.netlify.app/
+  3- https://posty-cosmo.netlify.app/
 - 🌱 I’m currently learning Javascript, React, Redux. 
 - 🤔 I’m looking for help with Getting better at coding and finding a job as a web developer. 
 - 💬 Ask me about Anything. 
