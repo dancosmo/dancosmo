@@ -9,7 +9,7 @@ Skills: REACT / REDUX / JS / HTML / CSS
 - 🔭 I’m currently working on https://watchat-cosmo.netlify.app/ 
 - 🌱 I’m currently learning Javascript, React, Redux. 
 - 🤔 I’m looking for help with Getting better at coding and finding a job as a web developer. 
-- 💬 Ask me about Anything web development related. 
+- 💬 Ask me about Anything. 
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-perez-55b8b2235/ 
 
 
