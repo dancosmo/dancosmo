@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Daniel Perez
 #### Web Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQFhrlUYySjVsg/profile-displaybackgroundimage-shrink_350_1400/0/1654721712699?e=1660176000&v=beta&t=oPFoUAiRBBd_D-Ze4SnwybwY8hiLu8Ec-e9mhAmUv30)
+![Web Developer](https://github.com/dancosmo/dancosmo/blob/main/banner-3.png)
 
 Mechatronic's Engineer and self taught web developer. I have great passion for technology and innovation. I am currently looking for the right opportunity to develop my skills as a programmer in a job. I am currently focusing on Javascript and front-end technologies.
 
