@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Daniel Perez
 #### Software Developer
-![Web Developer](https://github.com/dancosmo/dancosmo/blob/main/banner-bold.PNG)
+![Web Developer](https://github.com/dancosmo/dancosmo/blob/main/banner-6-17-2022.PNG)
 
 **I love working with**
 
