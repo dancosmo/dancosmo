@@ -2,7 +2,7 @@
 #### Software Developer
 ![Web Developer](https://github.com/dancosmo/dancosmo/blob/main/banner-6-17-2022.PNG)
 
-**I love working with**
+**😃 I love working with**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
