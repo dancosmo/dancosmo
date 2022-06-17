@@ -1,4 +1,4 @@
-# 👋 Hello there, my name is Daniel Perez
+# 👋 Hello there,
 
 ## Software Developer 💻
  
