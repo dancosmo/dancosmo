@@ -1,18 +1,49 @@
 ### Hi there 👋, my name is Daniel Perez
-#### Web Developer
+#### Software Developer
 ![Web Developer](https://github.com/dancosmo/dancosmo/blob/main/banner-bold.PNG)
 
-Mechatronic's Engineer and self taught web developer. I have great passion for technology and innovation. I am currently looking for the right opportunity to develop my skills as a programmer in a job. I am currently focusing on Javascript and front-end technologies.
+**I love working with**
 
-Skills: ⚛  REACT / 🌌 REDUX / 💻 JS / HTML / CSS
+<div display="flex">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/MATERIAL_UI-20232A?style=for-the-badge&logo=mui&logoColor=61DAFB" alt="Mui"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</div>
 
-- 🔭 My projects: 
+### 🔭 I’m working on
+Personal Projects checkt them below!
+
+### 🌱 I’m learning
+
+<div display="flex">
+
+  <Pretty Much Everything!
+  
+</div>
+
+### 🤔 I’m looking for help with
+
+- Learning automation and devops
+
+- 🔭 My Portfolio: 
+  - https://danielperez-portfolio.netlify.app/
   - https://watchat-cosmo.netlify.app/ 
   - https://rock-paper-scissors-cosmo.netlify.app/
   - https://posty-cosmo.netlify.app/
-- 🌱 I’m currently learning Javascript, React, Redux. 
-- 🤔 I’m looking for help with Getting better at coding and finding a job as a web developer. 
-- 📫 How to reach me: (https://www.linkedin.com/in/dancosmo/) 
-              
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/dancosmo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-perez-55b8b2235//) 
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/dancosmo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+### ⚡ Fun fact
+
+It's about to be 3:00 am at the time of editing this so I better go to sleep.
+
               
