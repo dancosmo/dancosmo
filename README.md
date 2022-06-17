@@ -1,6 +1,6 @@
 # 👋 Hello there,
 
-## Software Developer 💻
+## Software Developer  Jr.💻
  
 ![Web Developer](https://github.com/dancosmo/dancosmo/blob/main/banner-6-17-2022.PNG)
 
