@@ -19,14 +19,12 @@ Personal Projects checkt them below!
 ### 🌱 I’m learning
 
 <div display="flex">
-
-  <Pretty Much Everything!
-  
+  Every day a bit more! 🤓 
 </div>
 
 ### 🤔 I’m looking for help with
 
-- Learning automation and devops
+- Learning backend
 
 - 🔭 My Portfolio: 
   - https://danielperez-portfolio.netlify.app/
