@@ -1,8 +1,10 @@
-###👋 Hello there, my name is Daniel Perez
-#### Software Developer
+# 👋 Hello there, my name is Daniel Perez
+
+## Software Developer 💻
+ 
 ![Web Developer](https://github.com/dancosmo/dancosmo/blob/main/banner-6-17-2022.PNG)
 
-###😃 I love working with**
+## ⚛ I love working with:
 
 <div display="flex">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
@@ -13,25 +15,25 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
-###🔭 I’m working on
+## 🔭 I’m working on:
 Personal Projects checkt them below!
 
-###🌱 I’m learning
+## 🌱 I’m learning:
 
 <div display="flex">
-  Every day a bit more! 🤓 
+  Backend stuff
 </div>
 
-###🤔 I’m looking for help with
+## 🤔 I’m looking for help with:
 - Learning backend
 
-###🔭 My Portfolio: 
+## 🔭 My Portfolio: 
   - https://danielperez-portfolio.netlify.app/
   - https://watchat-cosmo.netlify.app/ 
   - https://rock-paper-scissors-cosmo.netlify.app/
   - https://posty-cosmo.netlify.app/
 
-### 📫 How to reach me
+## 📫 How to reach me:
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/dancosmo/">
@@ -39,7 +41,7 @@ Personal Projects checkt them below!
   </a>
 </div>
 
-### ⚡ Fun fact
+## ⚡ Fun fact
 
 It's about to be 3:00 am at the time of editing this so I better go to sleep.
 
