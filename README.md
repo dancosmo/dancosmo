@@ -16,7 +16,7 @@
 </div>
 
 ## 🔭 I’m working on:
-Personal Projects checkt them below!
+Personal Projects check them below!
 
 ## 🌱 I’m learning:
 
