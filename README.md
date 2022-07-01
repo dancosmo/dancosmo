@@ -29,7 +29,6 @@ Learning backend
 
 ## 🔭 My Portfolio: 
   - https://danielperez-portfolio.netlify.app/
-  - https://hacker-news-daniel-perez.netlify.app/
   - https://watchat-cosmo.netlify.app/ 
   - https://rock-paper-scissors-cosmo.netlify.app/
   - https://posty-cosmo.netlify.app/
