@@ -24,9 +24,6 @@ Personal Projects check them below!
   Backend stuff
 </div>
 
-## 🤔 I’m looking for help with:
-Learning backend
-
 ## 🔭 My Portfolio: 
   - https://danielperez-portfolio.netlify.app/
   - https://watchat-cosmo.netlify.app/ 
