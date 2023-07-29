@@ -15,8 +15,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  Contentful
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/contentful/contentful.png" alt="Contentful"/>
+  <img style="width:125px" src="https://i.pinimg.com/originals/c9/09/63/c9096394ec3825f4fa4debfd3242f253.png" alt="Contentful"/>
 </div>
 
 ## 🔭 I’m working on:
